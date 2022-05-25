@@ -1,0 +1,1 @@
+sqlldr CONTROL=TS_FE_DATA.ctl   skip=1   
